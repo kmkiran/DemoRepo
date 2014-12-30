@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0962E412-57C7-4801-9D16-CEB5719B06D7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FBDemoAPp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1CF927493EB73A815FE3056CD3CC74A3A91B145F</key>
+		<string>https://github.com/kmkiran/DemoRepo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FBDemoAPp/FBDemoAPp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1CF927493EB73A815FE3056CD3CC74A3A91B145F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kmkiran/DemoRepo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1CF927493EB73A815FE3056CD3CC74A3A91B145F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1CF927493EB73A815FE3056CD3CC74A3A91B145F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GitTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
