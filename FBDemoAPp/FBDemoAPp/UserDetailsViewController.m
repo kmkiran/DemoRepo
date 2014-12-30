@@ -1,7 +1,7 @@
 //
 //  UserDetailsViewController.m
 //  FBDemoAPp
-//
+// This view is used for getting and sharing User Current Location
 //  Created by Kiran's on 26/12/14.
 //  Copyright (c) 2014 Kiran's. All rights reserved.
 //
